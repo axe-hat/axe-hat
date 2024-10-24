@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @axe-hat
 - 👀 I’m interested in Web Development, Problem solving and Electronics
-- 🌱 I’m currently learning DSA and Embedded Systems in C
+- 🌱 I’m currently learning DSA in C++ and Embedded Systems in C
 - 💞️ I’m looking to collaborate on any fun project that can help nurture my skills
 - 📫 Reach out to me on LinkedIn, Instagram and Twitter following the links in my profile section
-- 🧑‍💻 Will deploy Portfolio Website soon
+- 🧑‍💻 Working to deploy Portfolio Website soon
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Git it. Fork it. Clone it.
 
