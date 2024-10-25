@@ -5,7 +5,7 @@
 - 📫 Reach out to me on LinkedIn, Instagram and Twitter following the links in my profile section
 - 🧑‍💻 Working to deploy Portfolio Website soon
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Git it. Fork it. Clone it.
+- ⚡ Fun fact: Git it. Fork it. Clone it. Push it.
 
 <!---
 axe-hat/axe-hat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
