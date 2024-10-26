@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @axe-hat
-- 👀 I’m interested in Web Development, Problem solving and Electronics
-- 🌱 I’m currently learning DSA in C++ and Embedded Systems in C
-- 💞️ I’m looking to collaborate on any fun project that can help nurture my skills
-- 📫 Reach out to me on LinkedIn, Instagram and Twitter following the links in my profile section
-- 🧑‍💻 Working to deploy Portfolio Website soon
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Git it. Fork it. Clone it. Push it.
+ - Hey! I’m @axe-hat
+- 👀 Into: Web Dev, Problem-Solving & Electronics
+- 🌱 Learning: DSA (C++) & Embedded Systems (C)
+- 💞️ Open to: Fun projects that sharpen my skills
+- 📫 Find me: LinkedIn, Instagram, Twitter (links in profile)
+- 🧑‍💻 Next up: Launching my Portfolio soon!
+- 😄 Pronouns: He/Him
+- ⚡ Fun Fact: Git it. Fork it. Clone it. Push it.
 
 <!---
 axe-hat/axe-hat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
