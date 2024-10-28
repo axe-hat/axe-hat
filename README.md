@@ -1,5 +1,5 @@
  - Hey! I’m @axe-hat
-- 👀 Into: Web Dev, Problem-Solving, Electronics & automation
+- 👀 Into: Web Dev, Problem-Solving, Electronics & Automation
 - 🌱 Learning: DSA (C++) & Embedded Systems (C)
 - 💞️ Open to: Fun projects that sharpen my skills
 - 📫 Find me: LinkedIn, Instagram, Twitter (links in profile)
