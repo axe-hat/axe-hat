@@ -3,7 +3,7 @@
 - 🌱 Learning: DSA (C++) & Embedded Systems (C)
 - 💞️ Open to: Fun projects that sharpen my skills
 - 📫 Find me: LinkedIn, Instagram, Twitter (links in profile)
-- 🧑‍💻 Next up: Launching my Portfolio soon!
+- 🧑‍💻 Next up: Launching my Portfolio really soon!
 - 😄 Pronouns: He/Him
 - ⚡ Fun Fact: Git it. Fork it. Clone it. Push it.
 
