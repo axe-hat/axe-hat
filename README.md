@@ -17,8 +17,8 @@ I build things that think. Currently making small language models do big things 
 
 ### 🔭 what i'm building right now
 
-- a **14-agent SLM pipeline** that reads clinical docs, resolves medical codes, catches fraud, and makes prior auth decisions — all running on a 5B model i fine-tuned, with 21 RAG collections and a knowledge graph. no cloud APIs, everything local.
-- an **OCR-to-FHIR R4** pipeline that turns messy scanned hospital paperwork into structured healthcare data bundles
+- a **SLM pipeline** that reads clinical docs, resolves medical codes, catches fraud, and makes prior auth decisions — all running on a small language model i fine-tuned, with RAG collections and a knowledge graph. no cloud APIs, everything local.
+- an **OCR-to-FHIR json** pipeline that turns messy scanned hospital paperwork into structured healthcare data bundles
 - side projects in **financial AI** and **engineering intelligence** (coming soon to a repo near you)
 
 ### 📄 published
