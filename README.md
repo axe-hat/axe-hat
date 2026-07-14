@@ -1,7 +1,7 @@
 <div align="center">
 
 # Akshat Kumar Jha
-**`Data Scientist · Model Fine-Tuning · Harware Enthusiast`**
+**`Data Scientist · Model Fine-Tuning · Hardware Enthusiast`**
 
 I build things that think. Small models doing serious work, clinical intelligence, agentic pipelines, and the kind of infrastructure that doesn't apologize for existing in production. Before AI, I was writing C for microcontrollers and making wheelchairs move with head gestures. The debugging skills transferred surprisingly well.
 
