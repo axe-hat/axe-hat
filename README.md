@@ -1,7 +1,13 @@
+<!-- BANNER: quote text embedded directly in the wave so it always shows in full -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:7b61ff,100:0d1117&height=190&section=header&text=Build%20something%20that%20outlives%20you.&fontSize=30&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20Engineer%20%C2%B7%20LLM%20Whisperer%20%C2%B7%20Embedded%20Systems%20Escapee&descAlignY=58&descSize=15" width="100%" />
+
 <div align="center">
 
 # Akshat Kumar Jha
+
 **`Data Scientist · Model Fine-Tuning · Hardware Enthusiast`**
+
+<a href="https://portfolio-two-pi-30.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=560&lines=I+build+things+that+think.;Small+models+doing+serious+work.;Clinical+intelligence+%C2%B7+agentic+pipelines.;From+microcontrollers+to+LLMs." alt="I build things that think." /></a>
 
 I build things that think. Small models doing serious work, clinical intelligence, agentic pipelines, and the kind of infrastructure that doesn't apologize for existing in production. Before AI, I was writing C for microcontrollers and making wheelchairs move with head gestures. The debugging skills transferred surprisingly well.
 
@@ -13,113 +19,160 @@ I build things that think. Small models doing serious work, clinical intelligenc
   <a href="https://instagram.com/axe.hat"><img src="https://img.shields.io/badge/axe.hat-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
-<!-- BANNER: quote text embedded directly in the wave so it always shows in full -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:7b61ff,100:0d1117&height=140&section=header&text=Build%20something%20that%20outlives%20you.&fontSize=22&fontColor=ffffff&fontAlignY=55&animation=twinkling&desc=AI%20Engineer%20%C2%B7%20LLM%20Whisperer%20%C2%B7%20Embedded%20Systems%20Escapee&descAlignY=75&descSize=13" width="100%" />
-
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:7b61ff&height=2" width="100%" />
 
-### what I'm building right now
+### `01` &nbsp;Building
 
 - A **multi-agent SLM system** for high-stakes clinical decision workflows, fine-tuned models, vector knowledge stores, and a custom routing layer. No managed APIs, fully local.
 - A **document intelligence pipeline** that turns unstructured medical paperwork into clean, standards-compliant structured data.
 - Side projects in **financial AI** and **engineering intelligence** *(coming soon to a repo near you)*.
 
-### published
+### `02` &nbsp;Publication
 
 - Research paper in **AI + Wireless Cognitive Radio Networks** submitted to *Scientific Reports* (under review).
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:7b61ff&height=2" width="100%" />
 
-### tech stack
+### `03` &nbsp;Tech Stack
 
-**`AI / ML`**
+<table>
+  <tr>
+    <td width="150"><b><code>AI / ML</code></b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=light" />
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn&theme=dark" height="44" alt="Python, PyTorch, TensorFlow, scikit-learn" />
+      </picture>
+      <br/>
+      <img src="https://img.shields.io/badge/Hugging%20Face%20Transformers-161b22?style=flat&logo=huggingface&logoColor=FFD21E" />
+      <img src="https://img.shields.io/badge/TRL-161b22?style=flat&logo=huggingface&logoColor=FFD21E" />
+      <img src="https://img.shields.io/badge/Ollama-161b22?style=flat&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Unsloth-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/LoRA%20%2F%20QLoRA%20%2F%20PEFT-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/Keras-161b22?style=flat&logo=keras&logoColor=D00000" />
+      <img src="https://img.shields.io/badge/NumPy-161b22?style=flat&logo=numpy&logoColor=4DABCF" />
+      <img src="https://img.shields.io/badge/Pandas-161b22?style=flat&logo=pandas&logoColor=E70488" />
+      <img src="https://img.shields.io/badge/Matplotlib-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/Seaborn-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/W%26B-161b22?style=flat&logo=weightsandbiases&logoColor=FFBE00" />
+      <img src="https://img.shields.io/badge/LangChain-161b22?style=flat&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/FAISS-161b22?style=flat&logo=meta&logoColor=0467DF" />
+      <img src="https://img.shields.io/badge/NetworkX-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/CUDA-161b22?style=flat&logo=nvidia&logoColor=76B900" />
+      <img src="https://img.shields.io/badge/NVIDIA%20DGX%20Spark-161b22?style=flat&logo=nvidia&logoColor=76B900" />
+    </td>
+  </tr>
+  <tr>
+    <td><b><code>Languages</code></b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=py,ts,js,c,cpp,java,postgres,html,css,bash,verilog&theme=light" />
+        <img src="https://skillicons.dev/icons?i=py,ts,js,c,cpp,java,postgres,html,css,bash,verilog&theme=dark" height="44" alt="Python, TypeScript, JavaScript, C, C++, Java, SQL, HTML, CSS, Bash, Verilog" />
+      </picture>
+      <br/>
+      <img src="https://img.shields.io/badge/Embedded%20C-161b22?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b><code>Web & Infra</code></b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flask,nextjs,react,tailwind,nodejs,express,postgres,mysql,sqlite,docker,nginx,vercel&theme=light" />
+        <img src="https://skillicons.dev/icons?i=flask,nextjs,react,tailwind,nodejs,express,postgres,mysql,sqlite,docker,nginx,vercel&theme=dark" height="44" alt="Flask, Next.js, React, Tailwind, Node.js, Express, PostgreSQL, MySQL, SQLite, Docker, Nginx, Vercel" />
+      </picture>
+      <br/>
+      <img src="https://img.shields.io/badge/Gunicorn-161b22?style=flat&logo=gunicorn&logoColor=499848" />
+      <img src="https://img.shields.io/badge/Docker%20Compose-161b22?style=flat&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/Azure%20Container%20Apps-161b22?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b><code>Data & BI</code></b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Power%20BI-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/Tableau-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/Microsoft%20Excel-161b22?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b><code>Tools & Platforms</code></b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,azure,githubactions&theme=light" />
+        <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,azure,githubactions&theme=dark" height="44" alt="Git, GitHub, Linux, VS Code, Postman, Azure DevOps, GitHub Actions" />
+      </picture>
+      <br/>
+      <img src="https://img.shields.io/badge/Jupyter-161b22?style=flat&logo=jupyter&logoColor=F37626" />
+      <img src="https://img.shields.io/badge/pytest-161b22?style=flat&logo=pytest&logoColor=0A9EDC" />
+    </td>
+  </tr>
+  <tr>
+    <td><b><code>Hardware & EDA</code></b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino,matlab&theme=light" />
+        <img src="https://skillicons.dev/icons?i=arduino,matlab&theme=dark" height="44" alt="Arduino, MATLAB" />
+      </picture>
+      <br/>
+      <img src="https://img.shields.io/badge/Keil%20%C2%B5Vision-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/ModelSim-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/Cadence%20Virtuoso-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/NI%20Multisim-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/AWR-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/I2C-161b22?style=flat" />
+      <img src="https://img.shields.io/badge/UART-161b22?style=flat" />
+    </td>
+  </tr>
+  <tr>
+    <td><b><code>Domain</code></b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Healthcare%20AI-00d9ff?style=flat&logoColor=black" />
+      <img src="https://img.shields.io/badge/Clinical%20NLP-7B61FF?style=flat&logoColor=white" />
+      <img src="https://img.shields.io/badge/Health%20Interoperability-00d9ff?style=flat&logoColor=black" />
+      <img src="https://img.shields.io/badge/Medical%20Coding-7B61FF?style=flat&logoColor=white" />
+      <img src="https://img.shields.io/badge/Multi--Agent%20Systems-00d9ff?style=flat&logoColor=black" />
+      <img src="https://img.shields.io/badge/RAG%20Pipelines-7B61FF?style=flat&logoColor=white" />
+      <img src="https://img.shields.io/badge/Generative%20AI-00d9ff?style=flat&logoColor=black" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-7B61FF?style=flat&logoColor=white" />
+      <img src="https://img.shields.io/badge/FHIR%20R4%20%2F%20HL7-00d9ff?style=flat&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vector%20Databases-7B61FF?style=flat&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logoColor=white)
-![W&B](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-5B21B6?style=flat-square&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![NetworkX](https://img.shields.io/badge/NetworkX-4B8BBE?style=flat-square&logoColor=white)
-![Unsloth](https://img.shields.io/badge/Unsloth-FF6B35?style=flat-square&logoColor=white)
-![LoRA/PEFT](https://img.shields.io/badge/LoRA%2FPEFT-7B61FF?style=flat-square&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:7b61ff&height=2" width="100%" />
 
-**`Languages`**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**`Web & Infra`**
-
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
-
-**`Tools & Platforms`**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-
-**`Domain`**
-
-![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-00d9ff?style=flat-square&logoColor=black)
-![Clinical NLP](https://img.shields.io/badge/Clinical%20NLP-7B61FF?style=flat-square&logoColor=white)
-![Health Interoperability](https://img.shields.io/badge/Health%20Interoperability-1ABC9C?style=flat-square&logoColor=white)
-![Medical Coding](https://img.shields.io/badge/Medical%20Coding-2E86C1?style=flat-square&logoColor=white)
-![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent%20Systems-8E44AD?style=flat-square&logoColor=white)
-![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-FF6B35?style=flat-square&logoColor=white)
-
----
-
-### github stats
+### `04` &nbsp;Github Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=axe-hat&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=7b61ff&text_color=c9d1d9&ring_color=00d9ff&include_all_commits=true&count_private=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axe-hat&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" height="170" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axe-hat&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=axe-hat&theme=github_dark" width="100%" alt="GitHub profile details and contribution graph" />
+</picture>
 
-<br/><br/>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axe-hat&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=axe-hat&theme=github_dark" width="49%" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=axe-hat&theme=github" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=axe-hat&theme=github_dark" width="49%" alt="Top languages by commit" />
+</picture>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=axe-hat&hide_border=true&background=0D1117&ring=00D9FF&fire=7B61FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555566" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=axe-hat&hide_border=true&background=FFFFFF&ring=0AA5C7&fire=7B61FF&currStreakLabel=0AA5C7&sideLabels=1F2328&currStreakNum=1F2328&sideNums=1F2328&dates=656D76" />
+  <img src="https://streak-stats.demolab.com?user=axe-hat&hide_border=true&background=0D1117&ring=00D9FF&fire=7B61FF&currStreakLabel=00D9FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="70%" alt="GitHub streak" />
+</picture>
 
-<br/><br/>
+</div>
 
-<!-- TROPHY: ryo-ma is the most reliable provider; needs account activity to populate -->
-<img src="https://github-profile-trophy.vercel.app/?username=axe-hat&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=12&margin-h=12" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7b61ff,100:00d9ff&height=100&section=footer&animation=twinkling" width="100%" />
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:7b61ff,100:00d9ff&height=80&section=footer&animation=twinkling" width="100%" />
-
-<br/>
+<div align="center">
 
 ![](https://komarev.com/ghpvc/?username=axe-hat&color=00d9ff&style=flat-square&label=profile+views)
 
