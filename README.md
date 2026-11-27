@@ -35,7 +35,46 @@ I build things that think. Small models doing serious work, clinical intelligenc
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:7b61ff&height=2" width="100%" />
 
-### `03` &nbsp;Tech Stack
+### `03` &nbsp;Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/axe-hat/due-diligence-ai"><b>📈 &nbsp;due-diligence-ai</b></a><br/>
+      <sub>RAG platform that answers questions about SEC EDGAR filings, with risk assessments and summaries.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=FFD43B" />
+      <img src="https://img.shields.io/badge/RAG-7B61FF?style=flat" />
+      <img src="https://img.shields.io/badge/Financial%20AI-00d9ff?style=flat&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/axe-hat/code-intel-hub"><b>🔎 &nbsp;code-intel-hub</b></a><br/>
+      <sub>Source-cited code Q&amp;A, code explanations, onboarding guides and incident analysis.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=FFD43B" />
+      <img src="https://img.shields.io/badge/LLM-7B61FF?style=flat" />
+      <img src="https://img.shields.io/badge/Engineering%20Intelligence-00d9ff?style=flat&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/axe-hat/pcb-aoi-inspection"><b>🔬 &nbsp;pcb-aoi-inspection</b></a><br/>
+      <sub>Automated optical inspection for PCBs: a YOLOv8 detector with pass/fail gating.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=FFD43B" />
+      <img src="https://img.shields.io/badge/YOLOv8-7B61FF?style=flat" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-00d9ff?style=flat&logoColor=black" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/axe-hat/Headway-Motion-Wheelchair"><b>♿ &nbsp;Headway-Motion-Wheelchair</b></a><br/>
+      <sub>Prototype wheelchair steered by head movement, using an MPU-6050 motion sensor.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-161b22?style=flat&logo=cplusplus&logoColor=00599C" />
+      <img src="https://img.shields.io/badge/Embedded-7B61FF?style=flat" />
+      <img src="https://img.shields.io/badge/Assistive%20Tech-00d9ff?style=flat&logoColor=black" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:7b61ff&height=2" width="100%" />
+
+### `04` &nbsp;Tech Stack
 
 <table>
   <tr>
@@ -145,7 +184,7 @@ I build things that think. Small models doing serious work, clinical intelligenc
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d9ff,100:7b61ff&height=2" width="100%" />
 
-### `04` &nbsp;Github Stats
+### `05` &nbsp;Github Stats
 
 <div align="center">
 
